@@ -4,4 +4,5 @@
 <li><i>Feature Engineering.py</i> – Templates for basic <b>Feature Engineering</b></li>
 <li><i>Model_Scikit-learn.py</i> – Templates for creating ML Models including train and test split, providing pipelines, applying <b>cross-validations</b> with <b>GridSearch</b> calculating <b>Mean Absolute Error</b>, <b>R Squared</b>, <b>Classification</b> problem with <b>ROC</b> and <b>AUC</b>, <b>Clustering</b> using <b>KMeans</b></li>
 <li><i>PCA.py</i> – Templates for <b>Principal Component Analysis</b> implemention</li>
+
 <i>Libraries used: pandas, numpy, matplotlib, seaborn, sklearn</i>
